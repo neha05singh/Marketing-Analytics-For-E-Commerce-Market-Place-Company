@@ -13,8 +13,7 @@ Order_Review_Ratings: Customer ratings at order level
 Geo-Location: Location details
 
 **Business Objective:**
-The below are few Sample business questions to be addressed as part of this analysis. However this
-is not exhaustive list and you can add as many as analysis and provide insights on the same.
+The below are few Sample business questions to be addressed as part of this analysis.
 1. Perform Detailed exploratory analysis
 a. Define & calculate high level metrics like (Total Revenue, Total quantity, Total
 products, Total categories, Total sellers, Total locations, Total channels, Total
